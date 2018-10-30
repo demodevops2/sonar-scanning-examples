@@ -1,6 +1,10 @@
 package example;
 
 public class HelloWorld {
+  
+  public static void main(String[] args){
+    System.out.println("Helloworld");
+    } 
 
   public void coveredByUnitTest() {
     System.out.println("coveredByUnitTest1");
